@@ -1,0 +1,11 @@
+Page\BexPlusLogin.class
+Test\CommonCondititon.class
+Page\BexPlusSimulatorPage.class
+Page\BexPlusHomePage.class
+Page\AbstractPage.class
+service\UserCreator.class
+util\TestListener.class
+service\TestDataReader.class
+driver\DriverSingleton.class
+Test\LoginAndBuyCryptoTest.class
+model\User.class
